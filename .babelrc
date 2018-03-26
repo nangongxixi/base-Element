@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+{
+  "presets": [
+    ["env", {
+      "modules": false
+    }],
+    "stage-2"
+  ],
+  "plugins": ["transform-runtime"]
+}
+=======
+{
+  "presets": [
+    ["env", {
+      "modules": false
+    }],
+    "stage-2"
+  ],
+  "plugins": ["transform-runtime"]
+}
+>>>>>>> 9ee7f171d869dbe4a6d8ccf57d5b233bdf231296
